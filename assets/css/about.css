@@ -4,7 +4,7 @@
 }
 
 .button-height {
-    // 通过高度控制内容的展示
+    /* // 通过高度控制内容的展示 */
     height: 20vmin;
     overflow: hidden;
 }
