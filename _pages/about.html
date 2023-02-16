@@ -8,43 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="{{ base_path }}/assets/css/about.css"/>
-
-<!-- Prospective Students -->
-<h2>Prospective Students</h2>
-I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
-
-<!-- News -->
-<h2> News</h2>
-
-<li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<li>[2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-<details>
-  <summary> [More] </summary>
-    <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-    <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-    <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-    <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-    <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-    <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-</details>
-<details>
-    <summary>
-        <p>据台媒报道，大...青睐。</p>
-        <div class="more">
-            <p>其他几首歌曲...</p>
-        </div>
-        <a>更多</a>
-    </summary> 
-</details>
-
-<h2>Prospective Students</h2>
-I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<meta name="author" content="http://www.pipipi.net/" /> 
+<title>前端教程网</title> 
+<style type="text/css">
+body{text-align:center}
+.box{
+  width:200px;
+  height:100px;
+  background-color:green;
+  margin:0px auto;
+}
+</style>
+<script type="text/javascript" src="mytest/jQuery/jquery-1.8.3.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#hide").click(function(){
+    $(".box").slideUp();
+  });
+  $("#show").click(function(){
+    $(".box").slideDown();
+  });
+})
+</script>
+</head>
+<body>
+<div class="box"></div>
+<input type="button" id="hide" value="点击隐藏"/>
+<input type="button" id="show" value="点击展开"/>
+</body>
+</html>
