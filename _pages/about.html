@@ -36,29 +36,35 @@ I am always looking for enthusiastic and self-motivated students to work togethe
     <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
     <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
 </details>
-<details>
-    <summary>
-        <ul>
-            <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-        </ul>
-        <div class="more">
-            <ul>
-                <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-                <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-                <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-                <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-                <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-                <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-            </ul>
-        </div>
-        <a>更多</a>
-    </summary> 
-</details>
 
 <h2>Prospective Students</h2>
 I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
+
+<!--控制选项展示隐藏-->
+<div :class="isShow?'button-height':''">
+    <ul>
+        <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+        <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+        <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+        <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+        <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+        <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    </ul>
+</div>
+<view class="unfold" @click="unfold">
+  <u-icon name="arrow-down"></u-icon>
+</view>
+<!--更多选项按钮展示 | 控制选项的展示和隐藏-->
+
+<script>
+    isShow: true,
+	
+	methods: {
+		/**
+		 * 收起/展开按钮点击事件
+		 */
+		unfold() {
+			this.isShow = !this.isShow;
+		},
+	}
+</script>
