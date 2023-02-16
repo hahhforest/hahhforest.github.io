@@ -29,7 +29,7 @@ News
 <li>[2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
 <li>[2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
 <details>
-  <summary> [More] </summary>
+  <summary align="left"> <font color="blue">[More]</font> </summary>
   <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
   <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
   <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
