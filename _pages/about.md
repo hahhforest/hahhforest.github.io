@@ -18,7 +18,25 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 News
 ======
+* [2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
 * [2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+<details>
+<summary> [More] </summary>
+* [2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+* [2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+</details>
 
 <br/>
 
