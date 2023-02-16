@@ -18,25 +18,30 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 News
 ======
-* [2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-<details>
-<summary> [More] </summary>
-* [2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-* [2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
-</details>
+
+<div class="news">
+  <ul>
+    <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+    <li>[2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+  </ul>
+  <details>
+    <summary> [More] </summary>
+    <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+    <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
+  </details>
+</div>
 
 <br/>
 
@@ -251,16 +256,16 @@ Selected Publications
 Services
 ======
 ### Journal Reviewer:
-* IEEE Transactions on Image Processing
-* IEEE Transactions on Multimedia
-* IEEE Transactions on Broadcasting
-* IEEE Transactions on Circuits and Systems for Video Technology
-* IEEE Transactions on Intelligent Transportation Systems
-* Pattern Recognition
+<li>IEEE Transactions on Image Processing
+<li>IEEE Transactions on Multimedia
+<li>IEEE Transactions on Broadcasting
+<li>IEEE Transactions on Circuits and Systems for Video Technology
+<li>IEEE Transactions on Intelligent Transportation Systems
+<li>Pattern Recognition
 
 ### Conference Reviewer:
-* European Conference on Computer Vision (ECCV), 2023
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
-* IEEE/CVF International Conference on Computer Vision (ICCV), 2021
-* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2020
-* Pacific Graphics (PG), 2020
+<li>European Conference on Computer Vision (ECCV), 2023
+<li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+<li>IEEE/CVF International Conference on Computer Vision (ICCV), 2021
+<li>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2020
+<li>Pacific Graphics (PG), 2020
