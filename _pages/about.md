@@ -20,7 +20,7 @@ News
 ======
 
 <details>
-  <summary align="left"> <font color="blue">[More]</font> </summary>
+  <summary> [More] </summary>
   <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
   <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
   <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
