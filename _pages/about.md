@@ -18,18 +18,16 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 News
 ======
-<ul>
-  <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-  <li>[2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
-</ul>
+<li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/11] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/12] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/13] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/14] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/15] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/16] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/17] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/18] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
+<li>[2022/11/19] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.</li>
 <details>
   <summary> [More] </summary>
   <li>[2022/11/10] &nbsp; One paper is selected by IEEE Transactions on Intelligent Transportation Systems.
